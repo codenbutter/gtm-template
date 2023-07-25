@@ -1,2 +1,6 @@
 homepage: "https://www.codenbutter.com"
 documentation: "https://docs.codenbutter.com/"
+versions:
+  # Latest version
+  - sha: fe2d32a090414ba9284431b0d0e47047cd297183
+    changeNotes: Initial release.

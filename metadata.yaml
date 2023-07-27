@@ -2,5 +2,8 @@ homepage: "https://www.codenbutter.com"
 documentation: "https://docs.codenbutter.com/"
 versions:
   # Latest version
+  - sha: 5e320624940c98770d18af5a403396d364858019
+    changeNotes: codenbutter image change.
+  # Older versions
   - sha: fe2d32a090414ba9284431b0d0e47047cd297183
     changeNotes: Initial release.
